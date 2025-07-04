@@ -22,5 +22,4 @@ This repository includes multiple data analysis tasks, machine learning labs, an
 - Exploratory Data Analysis
 - Machine Learning (Basic)
 - Geospatial Analysis
-- SQL for Data Science
 - Web Scraping
